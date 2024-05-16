@@ -1,4 +1,4 @@
-use qrust::{encode, place, qr::Mode, version::Version, Segment};
+use qrust::{encode, qr::Mode, symbol::place, version::Version, Segment};
 
 fn main() {
     let c = encode(
