@@ -1,11 +1,6 @@
 # qrust
 
-frankly useless qr codes
-
-## todo
-
-- [] calc best mask
-- [] pixel art input? aka qart
+fully undercover qr codes
 
 ## references
 
