@@ -1,6 +1,6 @@
 # qrust
 
-fully undercover qr codes
+frequently underestimated qr codes
 
 ## references
 
