@@ -54,7 +54,7 @@ fn bench_fastqr_qrcode(c: &mut Criterion) {
             b.iter(|| {
                 qrust::generate(
                     black_box("https://example.com/"),
-                    QrOptions::new()
+                    &QrOptions::new()
                         .min_ecl(*qrust_level)
                         .min_version(*qrust_version),
                 )
