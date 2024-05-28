@@ -509,22 +509,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "qrust"
-version = "1.0.0"
-dependencies = [
- "console_error_panic_hook",
- "criterion",
- "fast_qr",
- "ffmpeg-next",
- "image",
- "js-sys",
- "qrcode",
- "resvg",
- "wasm-bindgen",
- "wee_alloc",
-]
-
-[[package]]
 name = "getrandom"
 version = "0.2.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1039,6 +1023,22 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d68782463e408eb1e668cf6152704bd856c78c5b6417adaee3203d8f4c1fc9ec"
 dependencies = [
  "image",
+]
+
+[[package]]
+name = "qrust"
+version = "1.0.0"
+dependencies = [
+ "console_error_panic_hook",
+ "criterion",
+ "fast_qr",
+ "ffmpeg-next",
+ "image",
+ "js-sys",
+ "qrcode",
+ "resvg",
+ "wasm-bindgen",
+ "wee_alloc",
 ]
 
 [[package]]
