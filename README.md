@@ -143,9 +143,9 @@ Layering is neat, but it can seriously degrade scanning ability if done without 
 See [Halftone QR Codes](https://cgv.cs.nthu.edu.tw/projects/Recreational_Graphics/Halftone_QRCodes), [Micrography QR Codes](https://cgv.cs.nthu.edu.tw/projects/Recreational_Graphics/MQRC), [Amazing QR](https://github.com/x-hw/amazing-qr)
 for more thoughtful implementations with high scannability.
 
-| Background                                      | Minimalist                         | Improved scannability                  |
-|-------------------------------------------------|------------------------------------|----------------------------------------|
-| ![background](./examples/layers_background.png) | ![thin](./examples/layers_min.gif) | ![diagonal](./examples/layers_max.gif) |
+| Background                                      |
+|-------------------------------------------------|
+| ![background](./examples/layers_background.png) | 
 
 ### Misc bugs and experiments
 
